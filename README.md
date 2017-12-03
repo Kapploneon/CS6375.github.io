@@ -1,10 +1,10 @@
-Information
+__Information__
 
     Course Title:   Machine Learning
     Class Section:  CS6375.001.17F
     Instructor(s):  Anurag Nagar 
 
-Projects list
+__Projects list__
 
 -   [A wrong __DecisionTree__](./DecisionTree)
 -   [A slow __Neural Networks__](./NeuralNetworks)
