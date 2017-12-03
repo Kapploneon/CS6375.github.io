@@ -7,7 +7,7 @@ __Information__
 __Projects list__
 
 -   [A totally wrong __DecisionTree__](./DecisionTree)
--   [A unbearably slow __Neural Networks__](./NeuralNetworks)
+-   [An unbearably slow __Neural Networks__](./NeuralNetworks)
 -   [A naive __Naive Bayesian Classifier__](./NaiveBayesianClassifier)
 -   [A useless __Models Compare__](./ModelCompare)
 
