@@ -10,6 +10,7 @@ __Projects list__
 -   [An unbearably slow __Neural Networks__](./NeuralNetworks)
 -   [A naive __Naive Bayesian Classifier__](./NaiveBayesianClassifier)
 -   [A useless __Models Compare__](./ModelCompare)
+-   [A meaningless __K-Mean__](./K-Mean)
 
 and
 
